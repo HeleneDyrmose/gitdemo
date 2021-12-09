@@ -4,4 +4,4 @@ new change from github
 
 print(how are you doing?)
 
-test for merge
+print("I'm doing good, how about you?")
