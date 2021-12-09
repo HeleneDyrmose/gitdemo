@@ -1,9 +1,9 @@
-hey hey hey
+#hey hey hey
 
-new change from github
+# new change from github
 
-print(how are you doing?)
+print("how are you doing?")
 
 print("I'm doing good, how about you?")
 
-test
+# test
